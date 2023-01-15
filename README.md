@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- My name is Georgios Anyfantis. I am final year Msci Computer Science.
+ My name is Georgios Anyfantis. I am final year Msci Computer Science at Loughborough University.
 
  I am interested in Artificial Intelligence and its application in Cybersecurity, Networking, Cloud Computing and Cloud Security.
 
