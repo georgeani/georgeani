@@ -1,12 +1,12 @@
 ### Hi there 👋
 
- My name is Georgios Anyfantis. I am final year Msci Computer Science at Loughborough University.
+ My name is Georgios Anyfantis. I just graduated with an Msci Computer Science from Loughborough University.
 
  I am interested in Artificial Intelligence and its application in Cybersecurity, Networking, Cloud Computing and Cloud Security.
 
- I have previously worked on the creation of a simple DNN for attack detection using the CIC-IDS-2017. The file can be found [here](https://github.com/georgeani/NIDS_Dissertation_2021)
+ I have previously worked on the creation of a simple DNN for attack detection using the CIC-IDS-2017. The repository can be found [here](https://github.com/georgeani/NIDS_Dissertation_2021)
 
- In my profile you can find all my projects.
+ In my profile, you can find all my projects.
 
 <!--
 **georgeani/georgeani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
